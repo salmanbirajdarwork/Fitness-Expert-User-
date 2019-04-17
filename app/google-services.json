@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "962146083313",
+    "firebase_url": "https://gym-trainer-app.firebaseio.com",
+    "project_id": "gym-trainer-app",
+    "storage_bucket": "gym-trainer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962146083313:android:c2e5f4e130cfe262",
+        "android_client_info": {
+          "package_name": "com.gymtrainer.gymuserapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962146083313-17hci75aqh3ds4kas6g4v8fuoi646267.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gymtrainer.gymuserapp",
+            "certificate_hash": "8f8ec711e39641e2458b37be01e3f1a38983f89d"
+          }
+        },
+        {
+          "client_id": "962146083313-rkud50rbiik7b31m357pukgi935qna33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQvEUMQfTtirKiHoS9CYAW8VXTrEkUSp0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962146083313-rkud50rbiik7b31m357pukgi935qna33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962146083313:android:1e58b5cbbf2ad3e2",
+        "android_client_info": {
+          "package_name": "com.gymtrainer.trainerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962146083313-01tffigp5vcv2u8hqf370gpfl6j01pab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gymtrainer.trainerapp",
+            "certificate_hash": "8f8ec711e39641e2458b37be01e3f1a38983f89d"
+          }
+        },
+        {
+          "client_id": "962146083313-rkud50rbiik7b31m357pukgi935qna33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQvEUMQfTtirKiHoS9CYAW8VXTrEkUSp0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962146083313-rkud50rbiik7b31m357pukgi935qna33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

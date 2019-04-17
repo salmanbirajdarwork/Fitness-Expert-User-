@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    app:cardElevation="7dp"
+    android:layout_margin="5dp"
+    card_view:cardCornerRadius="12dp"
+    card_view:contentPadding="4dp"
+    android:layout_height="200dp">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="3">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.6"
+                android:padding="10dp"
+                android:id="@+id/textCategoryName"
+                android:textColor="@color/colorRed"
+                android:textStyle="bold"
+                android:text="Aerobic Training"
+                />
+
+
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2.4"
+                android:scaleType="fitXY"
+                android:id="@+id/textCategoryImage"
+                />
+
+
+
+
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+</android.support.v7.widget.CardView>
